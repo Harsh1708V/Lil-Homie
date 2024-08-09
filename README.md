@@ -15,7 +15,3 @@ This repository contains all the associated work that has been done for the area
 * Spiders in Web Crawler to extract data from Zillow
 * Speeding up the crawler with distributed spiders
 * Feeding the ML model with data of properties across the US and making necessary adjustments based on new results, instead of the tri-states properties it is limited to (but this requires the above three enhancements to be done first)
-
-
-### Questions?
-Email the author at anton.503.overload@gmail.com
